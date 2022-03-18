@@ -1,5 +1,6 @@
 remote_theme: im1eon/slate
 title: Your Paper Title
 description: Submitted to / Accepted by 会议 年份
-theme: jekyll-theme-cayman
 show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
