@@ -4,11 +4,14 @@ layout: default
 
 # One-shot Voice Conversion on Different Speech Representation with Adversarial Mutual Information Learning
 
-### *Sicheng Yang , Methawee Tantrawenith , Haolin Zhuang , Zhiyong Wu , Aolan Sun ,Jianzong Wang , Ning Cheng , Huaizhen Tang , Xintao Zhao , Jie Wang , Helen Meng *
+### *Sicheng Yang, Methawee Tantrawenith, Haolin Zhuang, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
+
 
 # Abstract
 
 One-shot voice conversion (VC) with only a single target-speaker speech for reference has become a new research direction. Existing works generally disentangle timbre, while information about pitch, rhythm and content is still mixed together. To perform one-shot VC effectively with further disentangling these speech components, we employ random resample resampling for pitch and content encoder and use adversarial mutual information learning to ensure the different parts of the latent space contain only the desired disentanglement during training. Experiments on the VCTK dataset show the model is a state-of-the-art one-shot VC framework in terms of the naturalness and similarity of converted speech. In addition, we can transfer style of one-shot VC on timbre, pitch and rhythm separately by speech representation disentanglement.
+
+# Conversion Task
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
