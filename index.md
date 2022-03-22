@@ -17,7 +17,7 @@ One-shot voice conversion (VC) with only a single target-speaker speech for refe
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| <audio controls><source src="HCSI_gen.wav" type="AdaIN-VC_HCSI">Your browser does not support the audio element.</audio>        | good swedish fish | nice  |
+| <audio controls><source src="./AdaIN-VC_HCSI/HCSI_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>        | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
