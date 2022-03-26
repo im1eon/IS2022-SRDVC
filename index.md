@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# One-shot Voice Conversion on Different Speech Representation with Adversarial Mutual Information Learning
+# Speech Representation Disentangling with Adversarial Mutual Information Learning for One-shot Voice Conversion
 
 ### *Sicheng Yang, Methawee Tantrawenith, Haolin Zhuang, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 
