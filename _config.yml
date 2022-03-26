@@ -1,5 +1,5 @@
 remote_theme: im1eon/slate
-title: One-shot Voice Conversion on Different Speech Representation with Adversarial Mutual Information Learning
+title: Speech Representation Disentangling with Adversarial Mutual Information Learning for One-shot Voice Conversion
 description: Submitted to INTERSPEECH2022
 theme: jekyll-theme-cayman
 show_downloads: true
