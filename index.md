@@ -9,11 +9,11 @@ layout: default
 
 # Abstract
 
-One-shot voice conversion (VC) with only a single target-speaker speech for reference has become a new research direction. Existing works generally disentangle timbre, while information about pitch, rhythm and content is still mixed together. To perform one-shot VC effectively with further disentangling these speech components, we employ random resample resampling for pitch and content encoder and use adversarial mutual information learning to ensure the different parts of the latent space contain only the desired disentanglement during training. Experiments on the VCTK dataset show the model is a state-of-the-art one-shot VC framework in terms of the naturalness and similarity of converted speech. In addition, we can transfer style of one-shot VC on timbre, pitch and rhythm separately by speech representation disentanglement.
+One-shot voice conversion (VC) with only a single target speaker speech for reference has become a new research direction. Existing works generally disentangle timbre, while information about pitch, rhythm and content is still mixed together. To perform one-shot VC effectively with further disentangling these speech components, we employ random resampling for pitch and content encoder and use the variational contrastive logratio upper bound of mutual information and gradient reversal layer based adversarial mutual information learning to ensure the different parts of the latent space containing only the desired disentanglement during training. Experiments on the VCTK dataset show the model is a state-of-the-art one-shot VC framework in terms of naturalness and intellgibility of converted speech. In addition, we can transfer style of one-shot VC on timbre, pitch and rhythm separately by speech representation disentanglement.
 
 # Conversion Task
 
-## One-shot Voice Conversion
+## One-shot VC (Timbre Conversion)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -22,7 +22,7 @@ One-shot voice conversion (VC) with only a single target-speaker speech for refe
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-## R, P, T Combination
+## Different Representation Transfer (Not Only Timbre Conversion)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -30,6 +30,10 @@ One-shot voice conversion (VC) with only a single target-speaker speech for refe
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+## 3
+
+# The code and pre-trained models will be uploaded later.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
