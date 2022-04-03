@@ -170,8 +170,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <th align="center" valign="middle">Converted Audio</th>  
 	</tr >
 	<tr >
-	    <td rowspan="7" align="center" style="vertical-align:middle"><audio controls><source src="./audio/2/p225_001.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
-            <td rowspan="7" align="center" style="vertical-align:middle"><audio controls><source src="./audio/2/p232_001.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+	    <td rowspan="7" align="center" style="vertical-align:middle"><audio controls><source src="./audio/2/p225_001.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"Please Call Stella."</b></i></p></td>
+            <td rowspan="7" align="center" style="vertical-align:middle"><audio controls><source src="./audio/2/p232_001.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"Please Call Stella."</b></i></p></td>
 	    <td align="center" valign="middle">Pitch</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/2/800000_001/p225_p232_001001_F.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
@@ -210,8 +210,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <th align="center" valign="middle">Converted Audio</th>  
 	</tr >
 	<tr >
-	    <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
-            <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+	    <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"I Love Human Computer Speech Interaction Lab."</b></i></p></td>
+            <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"I Love Human Computer Speech Interaction Lab."</b></i></p></td>
 	    <td rowspan="7" align="center" style="vertical-align:middle">Propose Model</td>
 	    <td align="center" valign="middle">Pitch</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_F.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
@@ -226,11 +226,11 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 	<tr>
 	    <td align="center" valign="middle">Pitch+Rhythm</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_FU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_RF.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
             <td align="center" valign="middle">Pitch+Timbre</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_RF.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_FU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
 	    <td align="center" valign="middle">Rhythm+Timbre</td>
