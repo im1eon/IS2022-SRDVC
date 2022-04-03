@@ -212,7 +212,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	<tr >
 	    <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
             <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
-	    <td rowspan="7" align="center" valign="middle">Propose Model</td>
+	    <td rowspan="7" align="center" style="vertical-align:middle">Propose Model</td>
 	    <td align="center" valign="middle">Pitch</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_F.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
@@ -246,7 +246,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 	<tr>
 	    <td colspan="2" align="center" valign="middle">VQMIVC</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/3/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/VQMIVC_.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
 	    <td colspan="2" align="center" valign="middle">AutoVC</td>
@@ -254,7 +254,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 	<tr>
 	    <td colspan="2" align="center" valign="middle">AdaIN-VC</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/3/HCSI_gen.wav.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/HCSI_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
 	    <td colspan="2" align="center" valign="middle">ClsVC</td>
