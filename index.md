@@ -46,7 +46,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr >
 	<tr >
 	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
-            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p</td>
+            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
 	    <td align="center" valign="middle">SkipVQVC</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
@@ -71,8 +71,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
-	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p</td>
-            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p</td>
+	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
 	    <td align="center" valign="middle">SkipVQVC</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
@@ -97,8 +97,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
-	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p</td>
-            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p</td>
+	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
 	    <td align="center" valign="middle">SkipVQVC</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
@@ -123,8 +123,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
-	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><i><b>"blablabla"</b></i></td>
-            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><i><b>"blablabla"</b></i></td>
+	    <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br>_"blablabla"_</td>
+            <td rowspan="6" align="center" style="vertical-align:middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br>_"blablabla"_</td>
 	    <td align="center" valign="middle">SkipVQVC</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
