@@ -30,6 +30,40 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 | ClsVC    | <audio controls><source src="./audio/1/F-F/p262_p335_373045/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>    |
 | Propose Model |<audio controls><source src="./audio/1/F-F/p262_p335_373045/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
+<table>
+	<tr>
+	    <th>Source Audio</th>
+        <th>Target Audio</th>
+	    <th>Model Name</th>
+	    <th>Converted Audio</th>  
+	</tr >
+	<tr >
+	    <td rowspan="6">source</td>
+        <td rowspan="6">target</td>
+	    <td>SkipVQVC</td>
+	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td>VQMIVC</td>
+	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td>AutoVC</td>
+	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td>AdaIN-VC</td>
+	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/AdaIN-VC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+        <td>ClsVC</td>
+	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td>Propose Model</td>
+	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+</table>
 
 <!--
 | Source Audio | Target Audio | SkipVQVC | VQMIVC | AutoVC | AdaIN-VC | ClsVC | Propose Model |
@@ -40,26 +74,6 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 | <audio controls><source src="./audio/1/M-M/p247_p272_025131/source.wav" type="audio/wav">Your browser does not support the audio element.</audio>       | <audio controls><source src="./audio/1/M-M/p247_p272_025131/target.wav" type="audio/wav">Your browser does not support the audio element.</audio>        | <audio controls><source src="./audio/1/M-M/p247_p272_025131/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio>     | <audio controls><source src="./audio/1/M-M/p247_p272_025131/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>     | <audio controls><source src="./audio/1/M-M/p247_p272_025131/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>       | <audio controls><source src="./audio/1/M-M/p247_p272_025131/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>       | <audio controls><source src="./audio/1/M-M/p247_p272_025131/AdaIN-VC.wav" type="audio/wav">Your browser does not support the audio element.</audio>     | <audio controls><source src="./audio/1/M-M/p247_p272_025131/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>       |
 -->
 
-<table>
-    <tr>
-        <td>列一</td> 
-        <td>列二</td> 
-   </tr>
-   <tr>
-        <td colspan="2">合并行</td>    
-   </tr>
-   <tr>
-        <td>列一</td> 
-        <td>列二</td> 
-   </tr>
-    <tr>
-        <td rowspan="2">合并列</td>    
-        <td >行二列二</td>  
-    </tr>
-    <tr>
-        <td >行三列二</td>  
-    </tr>
-</table>
 
 ## Different Representation Transfer (Not Only Timbre Conversion)
 
