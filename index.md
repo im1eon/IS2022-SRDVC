@@ -32,36 +32,36 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 <table>
 	<tr>
-	    <th>Source Audio</th>
-        <th>Target Audio</th>
-	    <th>Model Name</th>
-	    <th>Converted Audio</th>  
+	    <th align="center" valign="middle">Source Audio</th>
+            <th align="center" valign="middle">Target Audio</th>
+	    <th align="center" valign="middle">Model Name</th>
+	    <th align="center" valign="middle">Converted Audio</th>  
 	</tr >
 	<tr >
-	    <td rowspan="6">source<br>"blablabla"</td>
-            <td rowspan="6">target<br>"blablabla"</td>
-	    <td>SkipVQVC</td>
-	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td rowspan="6" align="center" valign="middle">source<br>"blablabla"</td>
+            <td rowspan="6" align="center" valign="middle">target<br>"blablabla"</td>
+	    <td align="center" valign="middle">SkipVQVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td>VQMIVC</td>
-	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle">VQMIVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td>AutoVC</td>
-	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle">AutoVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td>AdaIN-VC</td>
-	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/AdaIN-VC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle">AdaIN-VC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/AdaIN-VC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-        <td>ClsVC</td>
-	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+            <td align="center" valign="middle">ClsVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td>Propose Model</td>
-	    <td><audio controls><source src="./audio/1/F-M/p264_p278_319303/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 </table>
 
