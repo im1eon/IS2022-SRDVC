@@ -38,8 +38,8 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <th>Converted Audio</th>  
 	</tr >
 	<tr >
-	    <td rowspan="6">source</td>
-        <td rowspan="6">target</td>
+	    <td rowspan="6">source<br>"blablabla"</td>
+            <td rowspan="6">target<br>"blablabla"</td>
 	    <td>SkipVQVC</td>
 	    <td><audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
