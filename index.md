@@ -185,7 +185,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 	<tr>
 	    <td align="center" valign="middle">Pitch+Rhythm</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/2/800000_001/p225_p232_001001_FR.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/2/800000_001/p225_p232_001001_RF.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
             <td align="center" valign="middle">Pitch+Timbre</td>
@@ -197,7 +197,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 	<tr>
 	    <td align="center" valign="middle">Pitch+Rhythm+Timbre</td>
-	    <td align="center" valign="middle"><audio controls><source src="./audio/800000_001/p225_p232_001001_FRU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/2/800000_001/p225_p232_001001_RFU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 </table>
 
