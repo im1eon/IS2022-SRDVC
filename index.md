@@ -20,8 +20,9 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 ### Target：**_"blabla"_**
 <audio controls><source src="./audio/1/F-F/p262_p335_373045/target.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+
 | Model Name | Converted Audio |
-|:-----------|:----------------|
+|:-----------|-----------------|
 | SkipVQVC | <audio controls><source src="./audio/1/F-F/p262_p335_373045/SkipVQVC.wav" type="audio/wav">Your browser does not support the audio element.</audio> | 
 | VQMIVC   | <audio controls><source src="./audio/1/F-F/p262_p335_373045/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>   | 
 | AutoVC   | <audio controls><source src="./audio/1/F-F/p262_p335_373045/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio>   |    
