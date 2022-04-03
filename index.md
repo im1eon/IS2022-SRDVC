@@ -201,7 +201,66 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 </table>
 
-## 3
+<table>
+	<tr>
+	    <th align="center" valign="middle">Source Audio</th>
+            <th align="center" valign="middle">Target Audio</th>
+	    <th align="center" valign="middle">Model Name</th>
+	    <th align="center" valign="middle">Type</th>
+	    <th align="center" valign="middle">Converted Audio</th>  
+	</tr >
+	<tr >
+	    <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+            <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"blablabla"</b></i></p></td>
+	    <td rowspan="7" align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle">Pitch</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_F.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td align="center" valign="middle">Rhythm</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_R.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td align="center" valign="middle">Timbre</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_U.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td align="center" valign="middle">Pitch+Rhythm</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_FU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+            <td align="center" valign="middle">Pitch+Timbre</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_RF.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td align="center" valign="middle">Rhythm+Timbre</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_RU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td align="center" valign="middle">Pitch+Rhythm+Timbre</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_RFU.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td colspan="2" align="center" valign="middle">SkipVQVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/HCSI_gen_vqvc_.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td colspan="2" align="center" valign="middle">VQMIVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/VQMIVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td colspan="2" align="center" valign="middle">AutoVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/AutoVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td colspan="2" align="center" valign="middle">AdaIN-VC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/HCSI_gen.wav.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+	<tr>
+	    <td colspan="2" align="center" valign="middle">ClsVC</td>
+	    <td align="center" valign="middle"><audio controls><source src="./audio/3/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+	</tr>
+</table>
 
 # Code and Pre-trained Model
 
