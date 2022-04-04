@@ -1,4 +1,4 @@
-remote_theme: im1eon/slate
+remote_theme: thuhcsi/slate
 title: Speech Representation Disentangling with Adversarial Mutual Information Learning for One-shot Voice Conversion
 description: Submitted to INTERSPEECH2022
 theme: jekyll-theme-cayman
