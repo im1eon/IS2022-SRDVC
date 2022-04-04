@@ -21,6 +21,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 ## I. One-shot VC (Timbre Conversion)
 
+### Speakers are unseen during training.
 
 <!--
 ### Source：**_"blabla"_**
@@ -164,6 +165,10 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 ## II. Different Representation Transfer (Not Only Timbre Conversion)
 
+### Speakers are seen during training. 
+
+We pick speaker p252 and speaker p232 with **_"Please call Stella."_** and they are clearly different in rhyme and pitch.
+
 <table>
 	<tr>
 	    <th align="center" valign="middle">Source Audio</th>
@@ -203,7 +208,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 </table>
 
-## III. More
+### Speakers are unseen during training.
 
 <table>
 	<tr>
