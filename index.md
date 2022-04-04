@@ -7,9 +7,10 @@ layout: default
 
 ### *Sicheng Yang, Methawee Tantrawenith, Haolin Zhuang, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 -->
-### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
+### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu†, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 
 *\* Equal contribution.*
+*† Corresponding author.*
 
 # Abstract
 
@@ -17,7 +18,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 # Conversion Task
 
-## One-shot VC (Timbre Conversion)
+## I. One-shot VC (Timbre Conversion)
 
 
 <!--
@@ -41,7 +42,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	<tr>
 	    <th align="center" valign="middle">Source Audio</th>
             <th align="center" valign="middle">Target Audio</th>
-	    <th align="center" valign="middle">Model Name</th>
+	    <th align="center" valign="middle">Model</th>
 	    <th align="center" valign="middle">Converted Audio</th>  
 	</tr >
 	<tr >
@@ -67,7 +68,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle">Proposed Model</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-F/p262_p335_373045/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
@@ -93,7 +94,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle">Proposed Model</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/F-M/p264_p278_319303/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
@@ -119,7 +120,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle">Proposed Model</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-F/p278_p335_093313/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr >
@@ -145,7 +146,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/ClsVC.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 	<tr>
-	    <td align="center" valign="middle">Propose Model</td>
+	    <td align="center" valign="middle">Proposed Model</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/1/M-M/p247_p272_025131/My_model.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
 </table>
@@ -160,7 +161,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 -->
 
 
-## Different Representation Transfer (Not Only Timbre Conversion)
+## II. Different Representation Transfer (Not Only Timbre Conversion)
 
 <table>
 	<tr>
@@ -201,18 +202,20 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 	</tr>
 </table>
 
+## III. More
+
 <table>
 	<tr>
 	    <th align="center" valign="middle">Source Audio</th>
             <th align="center" valign="middle">Target Audio</th>
-	    <th align="center" valign="middle">Model Name</th>
+	    <th align="center" valign="middle">Model</th>
 	    <th align="center" valign="middle">Type</th>
 	    <th align="center" valign="middle">Converted Audio</th>  
 	</tr >
 	<tr >
 	    <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/source.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"I love Human Computer Speech Interaction Lab."</b></i></p></td>
             <td rowspan="12" align="center" style="vertical-align:middle"><audio controls><source src="./audio/3/target.wav" type="audio/wav">Your browser does not support the audio element.</audio><br><p><i><b>"I love Human Computer Speech Interaction Lab."</b></i></p></td>
-	    <td rowspan="7" align="center" style="vertical-align:middle">Propose Model</td>
+	    <td rowspan="7" align="center" style="vertical-align:middle">Proposed Model</td>
 	    <td align="center" valign="middle">Pitch</td>
 	    <td align="center" valign="middle"><audio controls><source src="./audio/3/source_target_e.ne.n_F.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
 	</tr>
