@@ -11,7 +11,7 @@ layout: default
 
 *\* Equal contribution.*
 
-*$\dagger$ Corresponding author.*
+* $\dagger$ Corresponding author.*
 
 # Abstract
 
