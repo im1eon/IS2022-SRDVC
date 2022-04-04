@@ -7,10 +7,11 @@ layout: default
 
 ### *Sicheng Yang, Methawee Tantrawenith, Haolin Zhuang, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 -->
-### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu†, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
+### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu\dagger, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 
 *\* Equal contribution.*
-*† Corresponding author.*
+
+*\dagger Corresponding author.*
 
 # Abstract
 
@@ -267,11 +268,11 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 
 # Code and Pre-trained Model
 
-## Code
+## I. Code
 
 The code will be uploaded later.
 
-## Pre-trained Model
+## II. Pre-trained Model
 
 The pre-trained model will be uploaded later.
 
