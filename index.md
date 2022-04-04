@@ -7,11 +7,11 @@ layout: default
 
 ### *Sicheng Yang, Methawee Tantrawenith, Haolin Zhuang, Zhiyong Wu, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 -->
-### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu\dagger, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
+### *Sicheng Yang\*, Methawee Tantrawenith\*, Haolin Zhuang\*, Zhiyong Wu†, Aolan Sun, Jianzong Wang, Ning Cheng, Huaizhen Tang, Xintao Zhao, Jie Wang, Helen Meng*
 
 *\* Equal contribution.*
 
-$ \dagger $ Corresponding author.
+*† Corresponding author.*
 
 # Abstract
 
