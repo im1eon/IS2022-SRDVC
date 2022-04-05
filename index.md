@@ -163,7 +163,7 @@ One-shot voice conversion (VC) with only a single target speaker speech for refe
 -->
 
 
-## II. Different Representation Transfer (Not Only Timbre Conversion)
+## II. Different Representation Conversion (Not Only Timbre Conversion)
 
 ### Speakers are seen during training. 
 
