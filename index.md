@@ -275,11 +275,12 @@ We pick speaker p252 and speaker p232 with **_"Please call Stella."_** and they 
 
 ## I. Code
 
-The code will be uploaded later.
+[Click to find the code](https://github.com/YoungSeng/SRD-VC).
 
 ## II. Pre-trained Model
 
-The pre-trained model will be uploaded later.
+[Click to find the pre-trained model](https://cloud.tsinghua.edu.cn/f/f3f8106a8cda46c5af56/?dl=1).
+
 
 
 <!--
